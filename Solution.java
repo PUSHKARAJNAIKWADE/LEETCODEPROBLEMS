@@ -1,3 +1,5 @@
+// Increasing Triplet subsequence
+package LEETCODEPROBLEMS;
 class Solution {
     public boolean increasingTriplet(int[] nums) {
         int first=Integer.MAX_VALUE;
